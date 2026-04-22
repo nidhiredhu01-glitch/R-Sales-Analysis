@@ -11,6 +11,7 @@ This project focuses on analyzing sales data using R programming. It includes da
 * tidyr
 * ggplot2
 
+
 📂 Dataset
 
 The dataset contains:
@@ -19,7 +20,6 @@ The dataset contains:
 * Category (Electronics, Clothing, Furniture)
 * Sales
 * Profit
-
 
 📈 Analysis Performed
 
@@ -32,12 +32,30 @@ The dataset contains:
 * Data Scaling
 
 
+📊 Sample Visualizations
+
+Histogram
+
+![Histogram](histogram.png)
+
+Scatter Plot
+
+![Scatter](scatter.png)
+
+Bar Chart
+
+![Bar Chart](bar_chart.png)
+
+Regression Plot
+
+![Regression](regression.png)
+
+
 🚀 How to Run
 
 1. Open RStudio
 2. Load the dataset (`sales_data.csv`)
 3. Run `sales_analysis.R`
-
 
 📎 Conclusion
 
